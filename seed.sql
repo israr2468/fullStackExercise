@@ -1,0 +1,1 @@
+INSERT INTO mytable (name, number, email) VALUES ('israr', '209 426 1390', 'israrali2468@gmail.com');
